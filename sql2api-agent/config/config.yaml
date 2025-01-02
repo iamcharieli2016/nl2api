@@ -1,0 +1,13 @@
+app:
+  name: sql2apiagent
+  host: "0.0.0.0"
+  port: 8000
+  workers: 20
+
+database:
+  host: "172.20.7.75"
+  port: 3307
+  username: "root"
+  password: "ik2jE42p"
+  database: "data_agent_sql2api_meta"
+  table_name: "api_mappings"

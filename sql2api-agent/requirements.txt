@@ -1,0 +1,28 @@
+# Web 框架
+fastapi>=0.104.1
+uvicorn>=0.24.0
+
+# 数据库
+sqlalchemy>=2.0.23
+pymysql>=1.1.0
+redis>=5.0.1
+
+# HTTP 客户端
+httpx>=0.25.2
+
+# 重试机制
+tenacity>=8.2.3
+
+# 配置管理
+python-dotenv>=1.0.0
+pydantic>=2.5.2
+pydantic-settings>=2.1.0
+
+# SQL解析
+sqlparse>=0.4.4
+
+# 日志
+python-json-logger>=2.0.7
+
+# 工具库
+typing-extensions>=4.8.0
